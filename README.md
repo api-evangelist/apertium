@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apertium is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://apertium.org/
+Apertium is a free and open-source machine translation platform. It provides a rule‑based translation engine, tools for managing linguistic data, and language‑pair data for many languages. The project is community‑driven, released under the GNU GPL, and offers documentation, downloads, and support via its wiki and mailing lists.
+
+**Areas:** Machine Translation · Open Source · Linguistics · Natural Language Processing · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apertium.org/)
+- [Documentation](https://wiki.apertium.org/wiki/Documentation)
+- [GitHub](https://github.com/apertium)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/apertium/](https://apis.io/providers/apertium/).
